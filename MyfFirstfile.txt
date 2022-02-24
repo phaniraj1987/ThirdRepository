@@ -1,2 +1,4 @@
 change made by developer 2.
 modified by developer 1
+
+changes made to understand .git
